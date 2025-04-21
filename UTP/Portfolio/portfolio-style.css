@@ -218,13 +218,13 @@ nav {
   
   .logo-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* force 4 columns */
+    grid-template-columns: repeat(4, 1fr);
     gap: 24px;
     max-width: 1000px;
     margin: 0 auto;
   }
   
-  .logo-card {
+  .logo-card, .logo-card1 {
     background-color: #f3f4f7;
     border-radius: 16px;
     padding: 30px;

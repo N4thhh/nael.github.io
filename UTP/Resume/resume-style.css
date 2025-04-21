@@ -189,7 +189,7 @@ nav {
     border: 1px solid #ccc;
     box-sizing: border-box;
     min-width: 280px;
-    margin-left: 20px; /* This pushes everything to the right */
+    margin-left: 20px;
   }
   
   .experience-column h2 {
